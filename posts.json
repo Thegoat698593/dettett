@@ -1,16 +1,20 @@
 [
   {
-    "title": "Test Tournament",
-    "author": "[Loop] Mostuem",
-    "date": "2025-06-18",
-    "image": "https://wallpapercave.com/wp/wp7676932.jpg",
-    "body": "Join the discord if you need help.",
-    "fields": {
-      "Bugs & Feedback": "As with release, you may encounter some bugs while playing. This is completely normal, and we appreciate your patience as we work to refine the experience. To ensure Loop remains the best it can be, please report any bugs or issues in our Support Server. Your feedback is invaluable in helping us create a smooth, lag-free, and enjoyable experience for all players!",
-      "Features": "✅ Stable Servers – We are now more stable via servers!\n✅ Battlepass - You can level/tier up in the battlepass by getting kills and placemente!\n✅ Anticheat – We have updated in-game anticheat for better experience!\n✅ Arena - Arena is back! Stats have reset and we have updated the amount of hype.",
-      "Tutorial": "https://www.youtube.com/watch?v=nvveRcnAxOo"
-    },
-    "available": true,
+    "id": 1,
+    "title": "Chapter 1 Season 7",
+    "date": "2025-07-08",
+    "body": "Jump into Chapter 1 Season 7 all over again — explore Mega City, slice through enemies with the Kinetic Blade, and ride the rails to the finish line.",
+    "author": "Epic Games",
+    "image": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2018/11/Fortnite-season-7-start-date.jpg",
     "new": true
+  },
+  {
+    "id": 2,
+    "title": "Chapter 1 Season X beta",
+    "date": "2025-06-15",
+    "body": "Experience the wild frontier of Chapter 2 Season 5 — hunt bounties, explore the desert, and survive in this lawless land.",
+    "author": "Epic Games",
+    "image": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2024/05/mixcollage-11-may-2024-10-22-am-4645.jpg",
+    "new": false
   }
 ]
